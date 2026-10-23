@@ -59,10 +59,6 @@ body {
   border-radius: 100px;
   font-size: 14px;
   font-weight: bold;
-
-  display: flex;
-  align-items: center;
-  gap: 10px;
 }
 
 .buttons button span {
